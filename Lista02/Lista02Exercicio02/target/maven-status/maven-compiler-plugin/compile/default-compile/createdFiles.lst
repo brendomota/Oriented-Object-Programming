@@ -1,0 +1,7 @@
+br\unesp\rc\lista02exercicio02\modelo\Eleitor.class
+br\unesp\rc\lista02exercicio02\modelo\Voto.class
+br\unesp\rc\lista02exercicio02\modelo\Candidato.class
+br\unesp\rc\lista02exercicio02\repositorio\EleitorRepositorio.class
+br\unesp\rc\lista02exercicio02\Lista02Exercicio02.class
+br\unesp\rc\lista02exercicio02\repositorio\VotoRepositorio.class
+br\unesp\rc\lista02exercicio02\repositorio\CandidatoRepositorio.class
